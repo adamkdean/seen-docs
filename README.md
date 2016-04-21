@@ -20,6 +20,7 @@ Take the film/review website template provided and turn it into a working app.
 
 1. Search functionality (maybe just implement a simple version?)
 2. Production level robustness/logging/error handling
+3. Tests for the API
 
 ### Deprioritised features (low value)
 

@@ -35,10 +35,10 @@ This will essentially be my TODO list so I can keep track of what is what.
 1. [mongodb] MongoDB docker scripts
 2. [external dep] API access to themoviedb.org
 3. [worker] Initial film & review data store hydration
+4. [worker] Resolve genres and store against film data
+5. [worker] Find more film data such as director, etc
 
 ### Pending
 
-1. [worker] Resolve genres and store against film data
-2. [worker] Find more film data such as director, etc
-3. [api] Implement an API to surface the data in MongoDB
-4. [website] Implement the UI which consumes the API and renders the templates
+1. [api] Implement an API to surface the data in MongoDB
+2. [website] Implement the UI which consumes the API and renders the templates

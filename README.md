@@ -11,7 +11,7 @@ Take the film/review website template provided and turn it into a working app.
 * TODO write this up properly
 
 1. [mongodb] Start with MongoDB (plus some sort of UI for development)
-2. Find a data source to provide film/review data & assets
+2. [external dep] Find a data source to provide film/review data & assets
 3. [worker] Implement a service to hydrate the data store using the aforementioned data source
 4. [api] Implement an API to surface the data in MongoDB
 5. [website] Implement the UI which consumes the API and renders the templates
@@ -33,7 +33,7 @@ This will essentially be my TODO list so I can keep track of what is what.
 ### Done
 
 1. [mongodb] MongoDB docker scripts
-2. API access to themoviedb.org
+2. [external dep] API access to themoviedb.org
 3. [worker] Initial film & review data store hydration
 
 ### Pending

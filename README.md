@@ -12,7 +12,7 @@ My first idea is to show a full stack. I will start with the MongoDB service, th
 
 It would be nice to add features like search, tests, deployment scripts, and universal JavaScript if Dust.js supports it, however, given how busy my week is and how I lose `NaN` hours on Saturday to a wedding I don't even want to go to, I'll probably knock that one on the head.
 
-Finally, I would love to get this to a point where I can deploy it to a droplet. But now it's time for a sandwich. 
+Finally, I would love to get this to a point where I can deploy it to a droplet. But now it's time for a sandwich.
 
 1. [mongodb] Start with MongoDB (plus some sort of UI for development)
 2. [external dep] Find a data source to provide film/review data & assets
@@ -33,7 +33,7 @@ Finally, I would love to get this to a point where I can deploy it to a droplet.
 1. User authentication/profile area ("YOU" link)
 2. Real historical data for film/review popularity
 
-## Bonus Round (only available to working apps)
+### Bonus Round (only available to working apps)
 
 1. Deploy to Digital Ocean droplet
 
@@ -50,12 +50,16 @@ This will essentially be my TODO list so I can keep track of what is what.
 5. [worker] Find more film data such as director, etc
 6. [api] Initial API setup using something like Hapi
 
-### Pending
+
+### In Progress
 
 1. [api] Define endpoints
 2. [api] Hook endpoints up to MongoDB
-3. [website] Look into Dust.js and get example server-side rendering working
-4. [website] Determine whether Dust.js supports isomorphic/universal JavaScript -- worth it for demo?
-5. [website] Get initial templates rendering with mocked data
-6. [website] Hook up server-side rendering to api
-7. [website] If using universal JavaScript, hook up pass through API endpoints
+
+### Pending
+
+1. [website] Look into Dust.js and get example server-side rendering working
+2. [website] Determine whether Dust.js supports isomorphic/universal JavaScript -- worth it for demo?
+3. [website] Get initial templates rendering with mocked data
+4. [website] Hook up server-side rendering to api
+5. [website] If using universal JavaScript, hook up pass through API endpoints

@@ -49,13 +49,16 @@ This will essentially be my TODO list so I can keep track of what is what.
 4. [worker] Resolve genres and store against film data
 5. [worker] Find more film data such as director, etc
 6. [api] Initial API setup using something like Hapi
-
+7. [api] Define endpoints/tests
+8. [api] Hook API up to MongoDB
+9. [worker] Convert film title to slug and store in db
+10. [worker] Generate mock film lengths
+11. [api] Implement film-based routes
+12. [api] Implement ES6 mocha tests
 
 ### In Progress
 
-1. [api] Define endpoints
-2. [api] Hook endpoints up to MongoDB
-3. [worker] Convert film title to slug and store in db
+1. [api] Implement review-based routes
 
 ### Pending
 

@@ -55,6 +55,7 @@ This will essentially be my TODO list so I can keep track of what is what.
 
 1. [api] Define endpoints
 2. [api] Hook endpoints up to MongoDB
+3. [worker] Convert film title to slug and store in db
 
 ### Pending
 

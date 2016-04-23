@@ -22,11 +22,11 @@ Finally, I would love to get this to a point where I can deploy it to a droplet.
 
 ### Optional features (if time permits)
 
-1. Search functionality (maybe just implement a simple version?)
-2. Production level robustness/logging/error handling
+~~1. Search functionality (maybe just implement a simple version?)~~
+~~2. Production level robustness/logging/error handling~~
 3. Tests for the API
 4. Containerisation + deployment scripts
-5. Universal JavaScript for website UI
+~~5. Universal JavaScript for website UI~~
 
 ### Deprioritised features (low value)
 
@@ -71,5 +71,5 @@ This will essentially be my TODO list so I can keep track of what is what.
 
 ## Links
 
-[Seen Project @ Quay.io](https://quay.io/organization/seenproject)
-[Server setup document](server.md)
+* [Seen Project @ Quay.io](https://quay.io/organization/seenproject)
+* [Server setup document](server.md)

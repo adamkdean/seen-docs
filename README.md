@@ -20,13 +20,13 @@ Finally, I would love to get this to a point where I can deploy it to a droplet.
 4. [api] Implement an API to surface the data in MongoDB
 5. [website] Implement the UI which consumes the API and renders the templates
 
-### Optional features (if time permits)
+### Optional features (if time permits, ~~denotes that feature was scrapped~~)
 
-~~1. Search functionality (maybe just implement a simple version?)~~
-~~2. Production level robustness/logging/error handling~~
+1. ~~Search functionality (maybe just implement a simple version?)~~
+2. ~~Production level robustness/logging/error handling~~
 3. Tests for the API
 4. Containerisation + deployment scripts
-~~5. Universal JavaScript for website UI~~
+5. ~~Universal JavaScript for website UI~~
 
 ### Deprioritised features (low value)
 

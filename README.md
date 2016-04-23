@@ -68,3 +68,8 @@ This will essentially be my TODO list so I can keep track of what is what.
 
 1. [website] Determine whether Dust.js supports isomorphic/universal JavaScript -- worth it for demo?
 2. [website] If using universal JavaScript, hook up pass through API endpoints
+
+## Links
+
+[Seen Project @ Quay.io](https://quay.io/organization/seenproject)
+[Server setup document](server.md)

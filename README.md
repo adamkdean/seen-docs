@@ -55,15 +55,15 @@ This will essentially be my TODO list so I can keep track of what is what.
 10. [worker] Generate mock film lengths
 11. [api] Implement film-based routes
 12. [api] Implement ES6 mocha tests
+13. [api] Implement review-based routes
 
 ### In Progress
 
-1. [api] Implement review-based routes
+1. [website] Look into Dust.js and get example server-side rendering working
 
 ### Pending
 
-1. [website] Look into Dust.js and get example server-side rendering working
-2. [website] Determine whether Dust.js supports isomorphic/universal JavaScript -- worth it for demo?
-3. [website] Get initial templates rendering with mocked data
-4. [website] Hook up server-side rendering to api
-5. [website] If using universal JavaScript, hook up pass through API endpoints
+1. [website] Determine whether Dust.js supports isomorphic/universal JavaScript -- worth it for demo?
+2. [website] Get initial templates rendering with mocked data
+3. [website] Hook up server-side rendering to api
+4. [website] If using universal JavaScript, hook up pass through API endpoints

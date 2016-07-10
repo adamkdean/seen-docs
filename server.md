@@ -46,8 +46,8 @@
 
 ## Worker setup
 
-  $ git clone git@github.com:seenproject/worker
-  $ export TMDB_API_KEY=*snip*
-  $ export MONGODB_URI=mongodb://*snip*:27017/seen
-  $ ./build/docker.sh
-  ...
+    $ git clone git@github.com:seenproject/worker
+    $ export TMDB_API_KEY=*snip*
+    $ export MONGODB_URI=mongodb://*snip*:27017/seen
+    $ ./build/docker.sh
+    ...
